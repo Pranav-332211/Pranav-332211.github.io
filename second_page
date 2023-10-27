@@ -1,0 +1,52 @@
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>Second Page</title>
+  <style>
+
+    body{
+      background-color: #87ceeb;
+    }
+
+    #id{}
+
+    header{
+      text-align: center;
+    }
+
+    .container{
+      background-color: #595;
+      color: #333;
+    }
+
+    .nav{
+      text-align:left;
+    }
+
+    .logo{}
+
+  </style>
+</head>
+<body>
+
+  <div class="nav">
+      <a class="logo" href=""><p>menu</p></a>
+      <ul type="none" classname="items">
+          <a href="First_Page.html">Home</a><br>
+          <a href="second_page.html">Projects</a><br>
+          <a href="">Contact</a>
+      </ul>
+  </div>
+
+  <section id="hero">
+      <div class="hero">
+              <div class="hero-info">
+                  <h1>prj 1</h1>
+                  <p>Hey!! I am Pranav Babu...</p>
+                  <h2>prj 2 </h2>
+                  <p>Hey!! I am Pranav Babu...</p>
+              </div>
+      </div>
+  </section>
+</body>
+</html>
